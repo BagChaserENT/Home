@@ -1,0 +1,11 @@
+name: Home
+version: 1.0.0
+author: BagChaser
+api: 5.36.0
+main: bagchaser\home\Core
+
+permissions:
+  home.cmd:
+    default: true
+  home.cmd.console:
+    default: op

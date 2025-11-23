@@ -1,0 +1,17 @@
+{
+    "name": "bagchaser/home",
+    "description": "Homes system for PocketMine-MP",
+    "type": "project",
+    "license": "GNU General Public License v3.0",
+    "autoload": {
+        "psr-4": {
+            "BagChaser\\Home\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BagChaser"
+        }
+    ],
+    "require": {}
+}
