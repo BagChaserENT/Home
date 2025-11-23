@@ -4,6 +4,7 @@
 This plugin was made using PocketMine-MP server software compatible with version `5.0.0-latest`
 
 # Features
+- All homes are stored via `SQLite3`
 - Set, teleport and delete your homes
 - OP users with console access can view players homes
 - Players have access to unlimited number of homes (MAY change in the future)
